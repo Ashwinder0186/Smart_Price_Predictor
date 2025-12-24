@@ -8,7 +8,7 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-85%25-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-**An intelligent machine learning application that predicts car prices with 85% accuracy using multiple regression models**
+**An intelligent machine learning application that predicts car prices with 92% accuracy using multiple regression models**
 
 [Features](#features) • [Demo](#demo) • [Installation](#installation) • [Models](#models) • [Results](#results)
 
